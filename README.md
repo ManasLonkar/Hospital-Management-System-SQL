@@ -22,5 +22,4 @@ The project demonstrates database creation, data insertion, and SQL queries to e
 # 💡 Suggestions & Feedback
 This project is open for feedback and ideas!
 If you have suggestions to improve the database design, queries, or add new features, feel free to share them by starting a discussion.
-
   
